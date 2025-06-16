@@ -1,9 +1,5 @@
 # Hoja de Vida - Jhon Alexander Diaz Rodriguez
 
-<p align="center">
-  <img src="./img_JhonDiaz.jpg" alt="Foto de Jhon Alexander Diaz Rodriguez" width="200"/>
-</p>
-
 **Estudiante de Ingeniería de Sistemas**  
 [LinkedIn](https://www.linkedin.com/in/jhonalexanderdiaz) | jhonalexander121@gmail.com | +57 319 692 4707
 
